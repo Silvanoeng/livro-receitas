@@ -9,10 +9,12 @@
 ###### desenvolveram o seu próprio controle de versão, baseado nas experiências de uso da BetKeeper, mas buscando ter um 
 ###### melhor desempenho.
 
+
 #### 2.
 ###### Em 2018 a Microsoft comprou o GitHub, por US$ 7,5 bilhões. Essa aquisição se deve a uma estratégias de negócios
 ###### implementadas por Satya Nadella (diretor executivo da Microsoft), que busca concentrar seus esforços em quatro frentes:
 ###### Nuvem, IA, Serviços e mercado corporativo. 
+
 
 #### 3.
 ###### O GitHub pode ser acessado pelo navegador no <https://github.com/>, onde é possível baixar conteúdo do repositório
